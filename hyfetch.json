@@ -1,0 +1,29 @@
+{
+    "preset": "boyflux2",
+    "mode": "rgb",
+    "auto_detect_light_dark": true,
+    "light_dark": "dark",
+    "lightness": 0.65,
+    "color_align": {
+        "mode": "horizontal"
+    },
+    "backend": "fastfetch",
+    "args": null,
+    "distro": null,
+    "pride_month_disable": false,
+    "custom_ascii_path": "/home/parker/.config/fastfetch/ascii",
+    "custom_presets": {
+        "boyflux2": [
+            "#D7E9F8",
+            "#6FACF5",
+            "#023570",
+            "#9EEDAC",
+            "#9EEDAC",
+            "#023570",
+            "#6FACF5",
+            "#D7E9F8"
+        ]
+    },
+    "palette_glyph": null,
+    "palette_type": null
+}
